@@ -1,0 +1,10 @@
+{
+<<<<<<< HEAD
+  "recommendations": [
+    "Vue.volar",
+    "dbaeumer.vscode-eslint"
+  ]
+=======
+  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+>>>>>>> 7d588a8 (feat)
+}
