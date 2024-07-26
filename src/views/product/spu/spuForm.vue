@@ -110,11 +110,11 @@
               circle
               type="success"
               plain
+              v-else
               @click="
-                row.flag = true
+                row.flag = true;
                 row.saleAttrValue = ''
               "
-              v-else
             />
           </template>
         </el-table-column>
